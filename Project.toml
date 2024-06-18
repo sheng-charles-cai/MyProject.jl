@@ -3,6 +3,11 @@ uuid = "4dd9378c-b5f7-4bb8-a10d-c7d4e9302bda"
 authors = ["Charles' MBP <cs9303@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Expectations = "2fe49d83-0758-5602-8f54-1f90ad0d522b"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
 [compat]
 julia = "1.9"
 
